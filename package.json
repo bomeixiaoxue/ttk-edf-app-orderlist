@@ -1,6 +1,6 @@
 {
   "name": "ttk-edf-app-orderlist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> 预览图",
   "main": "index.js",
   "scripts": {
